@@ -108,3 +108,85 @@ This test covers key concepts and terminology from the lecture on generative AI 
     * **User satisfaction:**  Feedback from users regarding their overall experience with the agent.
 
 18. **Answer:** Generative AI agents are expected to become increasingly prevalent in various fields, automating tasks, improving efficiency, and enhancing user experiences.  They have the potential to revolutionize industries like healthcare, finance, education, and customer service.  However, responsible development and deployment are crucial to ensure ethical and beneficial use.
+
+
+
+
+
+
+## Generative AI Agents:  Test Your Knowledge 
+
+This test assesses your understanding of the lecture on generative AI agents.  It includes questions testing critical points, challenging vocabulary, and some insights for deeper reflection.  
+
+**Instructions:** Answer the questions to the best of your ability.  
+
+**Part 1:  Critical Points**
+
+1. **What is the key difference between a traditional model and a generative AI agent?** 
+2. **What are the three primary foundational components of a generative AI agent?**
+3. **Name and briefly explain two different categories of agent architectures discussed in the lecture.**
+4. **Describe the role of “tools” in the functionality of a generative AI agent. Give a specific example of a tool and how it interacts with an agent.**
+5. **What are "few-shot examples" and how can they improve the performance of a generative AI agent?**
+
+**Part 2:  Vocabulary**
+
+1. **Define the word “introspective” as used in the context of the lecture.  **
+2. **What is the meaning of "disambiguate" in the lecture context?**
+3. **Explain the meaning of “hallucination” when used in relation to generative AI agents.**
+4. **What does "grounding" mean in the context of generative AI agents?** 
+5. **What is the meaning of “shim” as used when describing extensions in the context of agents?** 
+
+**Part 3:  Insights and Applications**
+
+1. **Think about a specific task or problem you encounter in your daily life.  Could a generative AI agent be used to automate or improve that task? Describe the agent's functionality and the tools it would require.** 
+2. **What are some potential ethical concerns related to the increasing use of generative AI agents?** 
+3. **Based on the lecture, what do you think are the most significant future directions for research and development in the field of generative AI agents?**
+
+**Part 4:  True or False**
+
+1.  Generative AI agents are always conversational and require direct human interaction.
+2.  The model used in a generative AI agent can be any type of generative language model, including vision-based models.
+3.  The "reasoning loop" is the core of the agent, where it makes decisions and interacts with the outside world.
+4.  Function calling is a more secure approach than using extensions when connecting to sensitive data sources.
+
+**Answers:**
+
+**Part 1:**
+
+1. **Models are limited to the knowledge they were trained on, while agents can access and reason based on real-time information from the world.**
+2. **The foundational components of a generative AI agent are the model, tools, and reasoning loop.** 
+3. **Two categories of agent architectures are collaborative architectures, where agents work together through a message queue, and supervisory architectures, where a central agent orchestrates the tasks of sub-agents.**
+4. **Tools allow agents to interact with the external world,  such as  reading emails, accessing databases, or making API calls.  For example, the "place search" tool allows an agent to query a location API for information about points of interest, grounding its responses in real-world data.**
+5. **Few-shot examples are specific prompts and desired responses that help train the agent's behavior. They improve the agent's performance by providing specific examples of the desired interaction style and output formatting.**
+
+**Part 2:**
+
+1. **"Introspective" means looking inwards, reflecting on one's own thoughts, and analyzing the steps of a process.**
+2. **"Disambiguate" means to remove any confusion or ambiguity by clarifying the meaning or intent.**
+3. **In the context of generative AI agents, "hallucination" refers to the agent providing incorrect or made-up information because it lacks access to real-time data.**
+4. **"Grounding" refers to the process of connecting an AI agent to real-world data sources, preventing hallucinations and making its responses more accurate.**
+5. **"Shim" refers to a piece of code or interface that acts as a mediator or connector between two systems, bridging any incompatibilities.**
+
+**Part 3:**
+
+*Answers will vary, this section is for your own reflection and analysis.*
+
+**Part 4:**
+
+1. **False.**
+2. **True.**
+3. **True.**
+4. **True.**
+
+**Complex English Words:**
+
+* **Introspective** (C1)
+* **Disambiguate** (C1)
+* **Hallucination** (C1)
+* **Orchestration** (C1)
+* **Autonomy** (C1)
+* **Stubbed out** (C1) 
+* **Middleware** (C1)
+* **Niche** (C1)
+
+Please note that this is just a starting point for your testing. You can expand on this by adding more questions and incorporating different types of assessments (e.g., multiple-choice, fill-in-the-blank, matching).
